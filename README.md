@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Stephen Webb's _English 102: Introduction to Critical Analysis_ 
 
-You can use the [editor on GitHub](https://github.com/skwebb/UofA-2017-ENG102/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+From here you will be able to see the showcased content created by both instructor and students. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Often assignments seem only useful for the fulfillment of course requirements, and as such they both live and die in the duration of the course. It is hoped that showcasing student work herein will provide a longer life to fruits of the labours exerted by the students and the instructor. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/skwebb/UofA-2017-ENG102/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Together, our [[Critical and Literary Terms Wiki|wiki]], [[Broadside Ballad Response Project|projects/1]], and [[Marginalia Hunt Project|projects/2]] will exhibit a range of critical reading, research, and writing skills. 
